@@ -16,8 +16,8 @@ The code contain two class:  Matrix & LDA<br />
 9. Addition and subtraction of two matrices<br />
 <br />
 <br />
-<br />
-### LDA class contains: <br />
+
+### LDA class contains:<br />
 1. Compute mean vector<br />
 2. Compute within class scatter matrix<br />
 3. Compute between class scatter matrix<br />
